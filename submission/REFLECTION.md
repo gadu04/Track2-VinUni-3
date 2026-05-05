@@ -1,7 +1,7 @@
 # Reflection — Lab 19
 
-**Tên:** _<Họ Tên>_
-**Cohort:** _<A20-K1 / A20-K2 / ...>_
+**Tên:** Nguyễn Đăng Hải
+**MSV:** 2A202600390
 **Path đã chạy:** _lite_
 
 ---
@@ -26,14 +26,3 @@ phù hợp hơn. Hybrid phù hợp nhất khi query đa dạng và cần độ �
 kiểu truy vấn.
 
 ---
-
-## Điều ngạc nhiên nhất khi làm lab này
-
-_(Optional, 1–2 câu)_
-
----
-
-## Bonus challenge
-
-- [ ] Đã làm bonus (xem `bonus/`)
-- [ ] Pair work với: _<tên đồng đội nếu có>_
